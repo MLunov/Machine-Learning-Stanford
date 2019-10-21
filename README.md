@@ -1,4 +1,5 @@
 # Machine Learning
+![screenshot of sample](https://miro.medium.com/max/3200/1*FGGge_GilZ_KJYaoryaxkA.png)
 This repository contains materials and solutions for [Machine Learning](https://www.coursera.org/learn/machine-learning) course, created by Stanford University.
 *** 
 **Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something**.
